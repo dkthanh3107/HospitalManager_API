@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\API_C#\\HospitalManagement_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|d:\\api_c#\\hospitalmanagement_api\\hospitalmanagement_api\\models\\domain\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|solutionrelative:hospitalmanagement_api\\models\\domain\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|d:\\api_c#\\hospitalmanagement_api\\hospitalmanagement_api\\models\\domain\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|solutionrelative:hospitalmanagement_api\\models\\domain\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|d:\\api_c#\\hospitalmanagement_api\\hospitalmanagement_api\\models\\domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|solutionrelative:hospitalmanagement_api\\models\\domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|d:\\api_c#\\hospitalmanagement_api\\hospitalmanagement_api\\models\\domain\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|solutionrelative:hospitalmanagement_api\\models\\domain\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|d:\\api_c#\\hospitalmanagement_api\\hospitalmanagement_api\\models\\domain\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|solutionrelative:hospitalmanagement_api\\models\\domain\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|d:\\api_c#\\hospitalmanagement_api\\hospitalmanagement_api\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|solutionrelative:hospitalmanagement_api\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|d:\\api_c#\\hospitalmanagement_api\\hospitalmanagement_api\\models\\domain\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|solutionrelative:hospitalmanagement_api\\models\\domain\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|d:\\api_c#\\hospitalmanagement_api\\hospitalmanagement_api\\models\\domain\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|solutionrelative:hospitalmanagement_api\\models\\domain\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|d:\\api_c#\\hospitalmanagement_api\\hospitalmanagement_api\\hospitalmanagement_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|solutionrelative:hospitalmanagement_api\\hospitalmanagement_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|d:\\api_c#\\hospitalmanagement_api\\hospitalmanagement_api\\hospitalmanagement_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|solutionrelative:hospitalmanagement_api\\hospitalmanagement_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|d:\\api_c#\\hospitalmanagement_api\\hospitalmanagement_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BBCF65-4CEB-4572-BD84-9F7C09BBF099}|HospitalManagement_API\\HospitalManagement_API.csproj|solutionrelative:hospitalmanagement_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Supply.cs",
+              "DocumentMoniker": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Supply.cs",
+              "RelativeDocumentMoniker": "HospitalManagement_API\\Models\\Domain\\Supply.cs",
+              "ToolTip": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Supply.cs",
+              "RelativeToolTip": "HospitalManagement_API\\Models\\Domain\\Supply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:10:20.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Department.cs",
+              "RelativeDocumentMoniker": "HospitalManagement_API\\Models\\Domain\\Department.cs",
+              "ToolTip": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Department.cs",
+              "RelativeToolTip": "HospitalManagement_API\\Models\\Domain\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:10:06.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medication.cs",
+              "DocumentMoniker": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Medication.cs",
+              "RelativeDocumentMoniker": "HospitalManagement_API\\Models\\Domain\\Medication.cs",
+              "ToolTip": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Medication.cs",
+              "RelativeToolTip": "HospitalManagement_API\\Models\\Domain\\Medication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:09:54.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "HospitalManagement_API\\Models\\Domain\\Employee.cs",
+              "ToolTip": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Employee.cs",
+              "RelativeToolTip": "HospitalManagement_API\\Models\\Domain\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:09:10.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Prescription.cs",
+              "RelativeDocumentMoniker": "HospitalManagement_API\\Models\\Domain\\Prescription.cs",
+              "ToolTip": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Prescription.cs",
+              "RelativeToolTip": "HospitalManagement_API\\Models\\Domain\\Prescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:08:59.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalManagement_API\\Models\\Domain\\Appointment.cs",
+              "ToolTip": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Appointment.cs",
+              "RelativeToolTip": "HospitalManagement_API\\Models\\Domain\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:08:39.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalManagement_API\\Models\\Domain\\Doctor.cs",
+              "ToolTip": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Doctor.cs",
+              "RelativeToolTip": "HospitalManagement_API\\Models\\Domain\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:08:22.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalManagement_API\\Models\\Domain\\Patient.cs",
+              "ToolTip": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Models\\Domain\\Patient.cs",
+              "RelativeToolTip": "HospitalManagement_API\\Models\\Domain\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:08:13.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HospitalManagement_API",
+              "DocumentMoniker": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\HospitalManagement_API.csproj",
+              "RelativeDocumentMoniker": "HospitalManagement_API\\HospitalManagement_API.csproj",
+              "ToolTip": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\HospitalManagement_API.csproj",
+              "RelativeToolTip": "HospitalManagement_API\\HospitalManagement_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T09:02:25.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HospitalManagement_API.http",
+              "DocumentMoniker": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\HospitalManagement_API.http",
+              "RelativeDocumentMoniker": "HospitalManagement_API\\HospitalManagement_API.http",
+              "ToolTip": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\HospitalManagement_API.http",
+              "RelativeToolTip": "HospitalManagement_API\\HospitalManagement_API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-03T09:02:21.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagement_API\\Program.cs",
+              "ToolTip": "D:\\API_C#\\HospitalManagement_API\\HospitalManagement_API\\Program.cs",
+              "RelativeToolTip": "HospitalManagement_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:02:14.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
